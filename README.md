@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Ruby, Rails and design tokens
 - 💬 Ask me about beer or anything really
 - 📫 How to reach me: ohnoesmyoreos@gmail.com
-- ⚡ Fun fact: I started an chickenpox epidemic at my daycare as a child. 🐔
+- ⚡ Fun fact: I might've started a chickenpox epidemic at my daycare as a child. 🐔
